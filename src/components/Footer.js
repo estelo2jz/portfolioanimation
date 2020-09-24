@@ -7,7 +7,6 @@ export default class Footer extends Component {
         <div className="footer-flex-container">
           <ul>
             <li>estelo2jz@gmail.com</li>
-            <li>224-413-6392</li>
           </ul>
         </div>
       </div>

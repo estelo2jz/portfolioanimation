@@ -48,7 +48,7 @@ export default class About extends Component {
             <div className="about-code-summary">
               <h4>CODE</h4>
               <p>
-                I like to code starting froma scratch, and enjoy bringing ideas to life in the browser.
+                I like to code starting from scratch, and see where it leads me. I like to animate things and bringing ideas to life in the browser.
                 I value simple content structure, clean design patterns, and thoughtful user experience.
               </p>
             </div>
