@@ -1,0 +1,18 @@
+.footer-helper-outer {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+
+  .footer-flex-container {
+    padding: 30px;
+    ul {
+      list-style: none;
+      li {
+        padding: 10px;
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+@import "./nav.scss";
+@import "./home.scss";
+@import "./about.scss";
+@import "./footer.scss";
+
+body {
+  background: #fcf3ec;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+}
