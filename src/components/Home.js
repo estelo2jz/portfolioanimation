@@ -8,7 +8,7 @@ export default function () {
       <div className="wrap">
       <div className="apps">
         <h3>Projects</h3>
-      <div className="app one">
+          <div className="app one">
             <a className="box-wrap" href="https://ministore.netlify.app/" target="_blank">
               <div className="top">
                 <div className="fa fa-heart">
