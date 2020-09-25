@@ -318,7 +318,8 @@ $img-bg-head: "https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?ixli
   }
 
   &.one .top {
-    background: #333;
+background: rgb(34, 89, 90);
+// background: linear-gradient(90deg, rgba(35, 127, 129, 1) 0%, rgba(119, 246, 248, 1) 100%, rgba(80, 224, 227, 1) 100%);
     // background-image: url($img-bg-head);
 
     // .fa {
@@ -327,7 +328,7 @@ $img-bg-head: "https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?ixli
   }
 
   &.two .top {
-    background: #333;
+    background: rgb(190, 81, 81);
     // background-image: url($img-bg-head);
     // .fa {
     //     background: #FF8963
@@ -335,7 +336,7 @@ $img-bg-head: "https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?ixli
   }
 
   &.three .top {
-    background: #333;
+    background: rgb(118, 230, 103);
     // background-image: url($img-bg-head);
 
     .fa {
@@ -344,21 +345,21 @@ $img-bg-head: "https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?ixli
   }
 
   &.four .top {
-    background: #333;
+    background: rgb(67, 156, 240);
     // background-image: url($img-bg-head);
 
 
   }
 
   &.five .top {
-    background: #333;
+    background: rgb(224, 133, 12);
     // background-image: url($img-bg-head);
 
 
   }
 
   &.six .top {
-    background: #333;
+    background: rgb(199, 30, 214);
     // background-image: url($img-bg-head);
 
     // .fa {
@@ -368,14 +369,14 @@ $img-bg-head: "https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?ixli
   }
 
   &.seven .top {
-    background: #333;
+    background: rgb(24, 233, 233);
     // background-image: url($img-bg-head);
 
 
   }
 
   &.eight .top {
-    background: #333;
+    background: rgb(214, 30, 61);
     // background-image: url($img-bg-head);
 
 

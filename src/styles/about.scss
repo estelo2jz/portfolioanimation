@@ -79,7 +79,7 @@
     align-items: center;
     text-align: center;
 
-    padding: 20px;
+    padding: 10px;
     margin: 2%;
     // background: white;
     // border: 1px solid #d6d6d6;
@@ -124,6 +124,38 @@
         font-size: 2em;
         font-weight: 700;
         letter-spacing: 2;
+
+        li {
+          transform: rotate(90deg)
+        }
+
+        li:nth-child(1) {
+          color: rgb(24, 184, 9);
+        }
+        li:nth-child(2) {
+          color: rgb(202, 85, 85);
+        }
+        li:nth-child(3) {
+          color: rgb(22, 156, 218);
+        }
+
+        li:nth-child(4) {
+          color: rgb(191, 12, 245);
+        }
+        li:nth-child(5) {
+          color: rgb(0, 0, 0);
+        }
+
+        li:nth-child(6) {
+          color: rgb(208, 211, 12);
+        }
+        li:nth-child(7) {
+          color: rgb(0, 255, 221);
+        }
+
+        li:nth-child(8) {
+          color: rgb(0, 255, 255);
+        }
       }
     }
   }
