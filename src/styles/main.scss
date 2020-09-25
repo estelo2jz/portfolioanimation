@@ -9,4 +9,12 @@ body {
   padding: 0;
   box-sizing: border-box;
   position: relative;
+  scroll-behavior: smooth;
 }
+
+// .App {
+//   .app-nav-container {
+//     position: sticky;
+//     scroll-behavior: auto;
+//   }
+// }

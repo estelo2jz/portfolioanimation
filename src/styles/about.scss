@@ -62,9 +62,85 @@
     }
   }
 
+  .about-summary {
+    .about-skills-container {
+
+      .about-inner-container {
+        margin: 10px;
+        font-weight: 600;
+        div:nth-child(1), :nth-child(3), :nth-child(5), :nth-child(7), :nth-child(9), :nth-child(11), :nth-child(13) {
+          color: white;
+        }
+        div:nth-child(1) {
+          background: gray;
+        }
+        div:nth-child(2) {
+          background: rgb(255, 255, 255);
+        }
+        div:nth-child(3) {
+          background: gray;
+        }
+        div:nth-child(4) {
+          background: rgb(255, 255, 255);
+        }
+        div:nth-child(5) {
+          background: gray;
+        }
+
+        div:nth-child(6) {
+          background: rgb(255, 255, 255);
+        }
+
+        div:nth-child(7) {
+          background: gray;
+        }
+
+        div:nth-child(8) {
+          background: rgb(255, 255, 255);
+        }
+        div:nth-child(9) {
+          background: gray;
+        }
+
+        div:nth-child(10) {
+          background: rgb(255, 255, 255);
+        }
+
+        div:nth-child(11) {
+          background: gray;
+        }
+
+        div:nth-child(12) {
+          background: rgb(255, 255, 255);
+        }
+        div:nth-child(13) {
+          background: gray;
+        }
+    
+        div:nth-child(14) {
+          background: rgb(255, 255, 255);
+        }
+      }
+    }
+    
+  }
+
   .about-code-container {
     padding: 10px;
     margin: 2%;
+    width: 50%;
+  }
+
+  .about-code-summary {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+
+    .about-code-summary-helper {
+      width: 70%;
+    }
 
   }
 
@@ -88,7 +164,14 @@
     // transition: .2s all;
 
     .about-inner-container {
-      
+      // div:nth-child(1) {
+      //   background: red;
+      // }
+      // div:nth-child(2) {
+      //   background: red;
+      // }
+
+
     }
     ul {
       display: grid;

@@ -31,26 +31,28 @@ export default class About extends Component {
               <div className="about-inner-container block-effect">
                 <div class="block-reveal">HTML</div>
                 <div class="block-reveal">CSS/SCSS</div>
-                <div class="block-reveal">BOOTSTRAP</div>
-                <div class="block-reveal">REACTSTRAP</div>
+                <div class="block-reveal">Web Development</div>
+                <div class="block-reveal">UI Developer</div>
                 <div class="block-reveal">JavaScript</div>
                 <div class="block-reveal">Python</div>
                 <div class="block-reveal">JSON</div>
                 <div class="block-reveal">NodeJS</div>
                 <div class="block-reveal">ExpressJS</div>
                 <div class="block-reveal">React</div>
-                <div class="block-reveal">Redux</div>
+                <div class="block-reveal">Web design</div>
                 <div class="block-reveal">MySQL</div>
                 <div class="block-reveal">MongoDB</div>
-                <div class="block-reveal">Firebase</div>
+                <div class="block-reveal">Data Structure</div>
               </div>
             </div>
             <div className="about-code-summary">
-              <h4>CODE</h4>
-              <p>
-                I like to code starting from scratch, and see where it leads me. I like to animate things and bringing ideas to life in the browser.
-                I value simple content structure, clean design patterns, and thoughtful user experience.
-              </p>
+              <div className="about-code-summary-helper">
+                <h4>CODE</h4>
+                <p>
+                  I like to code starting from scratch, and see where it leads me. I like to animate things and bringing ideas to life in the browser.
+                  I value simple content structure, clean design patterns, and thoughtful user experience.
+                </p>
+              </div>
             </div>
           </div>
           <div className="about-social-links">
