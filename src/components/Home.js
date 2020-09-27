@@ -58,7 +58,7 @@ export default function () {
             </a>
           </div>
           <div className="app five">
-            <a className="box-wrap" href="https://barberclone.netlify.app/" target="_blank">
+            <a className="box-wrap" href="https://barberclonev2.netlify.app/" target="_blank">
               <div className="top">
                 <div className="fa fa-home">
                   <p href="">Barber Clone</p>
