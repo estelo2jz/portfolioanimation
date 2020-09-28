@@ -22,7 +22,7 @@ export default function () {
             </a>
           </div>
           <div className="app two">
-            <a className="box-wrap" href="https://companycultures.netlify.app/" target="_blank">
+            <a className="box-wrap" href="https://topcompanyv2.netlify.app/" target="_blank">
               <div className="top">
                 <div className="fa fa-headphones">
                   <p href="">Top Company Cultures</p>
