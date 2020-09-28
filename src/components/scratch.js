@@ -6,13 +6,13 @@ export default function () {
       {/* show portfolio items from data */}
       {/* <PortfolioContainer /> */}
       <div className="wrap">
-      <div className="apps">
-        <h3>Projects</h3>
+        <div className="apps">
+          <h3>Projects</h3>
           <div className="app one">
-            <a className="box-wrap" href="https://estelo.net/" target="_blank">
+            <a className="box-wrap" href="https://ministore.netlify.app/" target="_blank">
               <div className="top">
                 <div className="fa fa-heart">
-                  <p>Portfolio V1</p>
+                  <p>Mini Online Store</p>
                   {/* <div className="pic"></div> */}
                 </div>
                 <div className="image-helper">
@@ -29,6 +29,18 @@ export default function () {
                 </div>
                 <div className="image-helper">
                   <div className="pic-two"></div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div className="app three">
+            <a className="box-wrap" href="https://chinesefood.netlify.app/" target="_blank">
+              <div className="top">
+                <div className="fa fa-cutlery">
+                  <p>Chinese Menu</p>
+                </div>
+                <div className="image-helper">
+                  <div className="pic-three"></div>
                 </div>
               </div>
             </a>
@@ -66,6 +78,30 @@ export default function () {
                 </div>
                 <div className="image-helper">
                   <div className="pic-six"></div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div className="app seven">
+            <a className="box-wrap" href="https://gummy-stickers.netlify.app/" target="_blank">
+              <div className="top">
+                <div className="fa fa-cutlery">
+                  <p href="">Code Sticker</p>
+                </div>
+                <div className="image-helper">
+                  <div className="pic-seven"></div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div className="app eight">
+            <a className="box-wrap" href="https://svelte-razors-store.netlify.app/" target="_blank">
+              <div className="top">
+                <div className="fa fa-check">
+                  <p href="">Razor</p>
+                </div>
+                <div className="image-helper">
+                  <div className="pic-eight"></div>
                 </div>
               </div>
             </a>
