@@ -9,7 +9,7 @@ $img-razor: "https://images.unsplash.com/photo-1599351431613-18ef1fdd27e1?ixlib=
 $img-mower: "https://images.unsplash.com/photo-1458245201577-fc8a130b8829?ixlib=rb-1.2.1&auto=format&fit=crop&w=1055&q=80";
 $img-bg-head: "https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80";
 $img-portfoliov1: "https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940";
-
+$img-portfoliov2: "https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940";
 .home-items-container {
   display: flex;
   justify-content: center;
@@ -208,7 +208,7 @@ $img-portfoliov1: "https://images.pexels.com/photos/270348/pexels-photo-270348.j
     }
 
     .pic-three {
-      background-image: url($img-chinese);
+      background-image: url($img-portfoliov2);
       filter: grayscale(100%);
 
     }

@@ -21,6 +21,19 @@ export default function () {
               </div>
             </a>
           </div>
+          <div className="app three">
+            <a className="box-wrap" href="https://esteloportfoliov2.netlify.app/" target="_blank">
+              <div className="top">
+                <div className="fa fa-heart">
+                  <p>Portfolio V2</p>
+                  {/* <div className="pic"></div> */}
+                </div>
+                <div className="image-helper">
+                  <div className="pic-three"></div>
+                </div>
+              </div>
+            </a>
+          </div>
           <div className="app two">
             <a className="box-wrap" href="https://topcompanyv2.netlify.app/" target="_blank">
               <div className="top">
