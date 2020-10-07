@@ -5,11 +5,12 @@ import Navigation from "./components/Navigation";
 import About from "./components/About";
 import Home from "./components/Home";
 import Footer from "./components/Footer";
+import Projects from "./components/Projects";
 
 function App() {
   return (
     <div className="App">
-      <div>
+      <div className="App-container">
         <div className="app-nav-container">
           <Navigation />
         </div>
