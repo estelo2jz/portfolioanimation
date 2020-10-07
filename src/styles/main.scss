@@ -38,11 +38,11 @@ body {
   .App-container {
       background-image: url($background);
       /* Set a specific height */
-      min-height: 100%;
+      min-height: 700px;
 
       /* Create the parallax scrolling effect */
       background-attachment: fixed;
-      background-position: right;
+      background-position: left;
       background-repeat: no-repeat;
       background-size: cover;
   }
